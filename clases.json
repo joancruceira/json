@@ -1,0 +1,17 @@
+[
+    {
+      "id": 101,
+      "titulo": "Clase 1 - Respiración Consciente",
+      "descripcion": "Técnicas básicas de respiración para relajación.",
+      "video": "https://youtube.com/embed/kNavJY0EBbU",
+      "bloqueada": false
+    },
+    {
+      "id": 102,
+      "titulo": "Clase 2 - Posturas Iniciales",
+      "descripcion": "Introducción a las posturas básicas del yoga.",
+      "video": "https://youtube.com/embed/65nIwLaMsWQ",
+      "bloqueada": true
+    }
+  ]
+  

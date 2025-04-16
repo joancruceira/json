@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "nombre": "Lucía",
+      "apellido": "Fernández",
+      "email": "lucia@example.com",
+      "contraseña": "hashed123",
+      "membresia_activa": true
+    },
+    {
+      "id": 2,
+      "nombre": "Mateo",
+      "apellido": "Lopez",
+      "email": "mateo@example.com",
+      "contraseña": "hashed456",
+      "membresia_activa": false
+    }
+  ]
+  
