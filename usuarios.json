@@ -1,19 +1,74 @@
 [
-    {
-      "id": 1,
-      "nombre": "Lucía",
-      "apellido": "Fernández",
-      "email": "lucia@example.com",
-      "contraseña": "hashed123",
-      "membresia_activa": true
-    },
-    {
-      "id": 2,
-      "nombre": "Mateo",
-      "apellido": "Lopez",
-      "email": "mateo@example.com",
-      "contraseña": "hashed456",
-      "membresia_activa": false
-    }
-  ]
-  
+  {
+    "id": 1,
+    "nombre": "Lucia",
+    "apellido": "Fernández",
+    "email": "lucia@example.com",
+    "contraseña": "nuevaClave123",
+    "membresia_activa": true
+  },
+  {
+    "id": 2,
+    "nombre": "Mateo",
+    "apellido": "Lopez",
+    "email": "mateo@example.com",
+    "contraseña": "hashed456",
+    "membresia_activa": false
+  },
+  {
+    "id": 3,
+    "nombre": "Camila",
+    "apellido": "García",
+    "email": "camila@example.com",
+    "contraseña": "hashed789",
+    "membresia_activa": true
+  },
+  {
+    "id": 4,
+    "nombre": "Santiago",
+    "apellido": "Rodríguez",
+    "email": "santiago@example.com",
+    "contraseña": "hashed101",
+    "membresia_activa": true
+  },
+  {
+    "id": 5,
+    "nombre": "Valentina",
+    "apellido": "Martínez",
+    "email": "valentina@example.com",
+    "contraseña": "hashed202",
+    "membresia_activa": false
+  },
+  {
+    "id": 6,
+    "nombre": "Joaquin",
+    "apellido": "Sosa",
+    "email": "joaquin@example.com",
+    "contraseña": "hashed303",
+    "membresia_activa": true
+  },
+  {
+    "id": 7,
+    "nombre": "Sofia",
+    "apellido": "Díaz",
+    "email": "sofia@example.com",
+    "contraseña": "hashed404",
+    "membresia_activa": false
+  },
+  {
+    "id": 8,
+    "nombre": "Lautaro",
+    "apellido": "Pérez",
+    "email": "lautaro@example.com",
+    "contraseña": "hashed505",
+    "membresia_activa": true
+  },
+  {
+    "id": 9,
+    "nombre": "",
+    "apellido": "",
+    "email": "",
+    "contraseña": "",
+    "membresia_activa": false
+  }
+]

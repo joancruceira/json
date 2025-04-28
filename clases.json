@@ -11,7 +11,28 @@
       "titulo": "Clase 2 - Posturas Iniciales",
       "descripcion": "Introducción a las posturas básicas del yoga.",
       "video": "https://youtube.com/embed/65nIwLaMsWQ",
-      "bloqueada": true
+      "bloqueada": false
+    },
+    {
+      "id": 103,
+      "titulo": "Clase 3 - Movilidad",
+      "descripcion": "Introducción a la movilidad en yoga.",
+      "video": "https://youtube.com/embed/65nIwLaMsWQ",
+      "bloqueada": false
+    },
+    {
+      "id": 104,
+      "titulo": "Clase 4 - Posturas Intermedias",
+      "descripcion": "Introducción a las posturas intermedias del yoga.",
+      "video": "https://youtube.com/embed/65nIwLaMsWQ",
+      "bloqueada": false
+    },
+    {
+      "id": 105,
+      "titulo": "Clase 5 - Posturas Avanzadas",
+      "descripcion": "Introducción a las posturas avanzadas del yoga.",
+      "video": "https://youtube.com/embed/65nIwLaMsWQ",
+      "bloqueada": false
     }
   ]
   
